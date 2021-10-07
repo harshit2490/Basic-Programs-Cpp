@@ -14,7 +14,5 @@ int main(){
     return 0;
 }
 
-
-
-// OUTPUT: 5
-// INPUT:  7
+// INPUT:  5
+// OUTPUT: 7
