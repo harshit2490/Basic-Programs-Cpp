@@ -15,8 +15,8 @@ int main(){
     return 0;
 }
 
-// OUTPUT: 5
 // INPUT:  0 1 1 2 3 
+// OUTPUT: 5
 
 
 /*--------------------------(USING ARRAY)-----------------------*/
@@ -36,5 +36,5 @@ int main(){
     return 0;
 }
 
-// OUTPUT: 5
 // INPUT:  0 1 1 2 3 
+// OUTPUT: 5
