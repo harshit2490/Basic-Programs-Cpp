@@ -32,4 +32,6 @@ INPUT:
 
 OUTPUT: 
 2 3 4 6 8 
+
+EXPLANATION: https://www.youtube.com/watch?v=3GC83dh4cf0
 */
