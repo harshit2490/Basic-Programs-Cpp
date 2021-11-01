@@ -1,4 +1,4 @@
-// Stack Operation (push, pop, top, empty)
+// Stack Operation (push, pop, top, empty, count value, search value, change value)
 #include <bits/stdc++.h>
 using namespace std;
 #define n 5
