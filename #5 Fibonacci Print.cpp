@@ -1,7 +1,24 @@
+/*--------------------------(USING RECURSION)-----------------------*/
+#include<bits/stdc++.h>
+using namespace std;
+int fib(int n){
+	if (n <= 1)
+		return n;
+	return fib(n-1) + fib(n-2);
+}
+int main (){
+	int n;
+    cin >> n;
+	cout << fib(n);
+	return 0;
+}
+
+// INPUT:  9
+// OUTPUT: 34
+
 /*------------------------(USING VARIABLES)---------------------*/
 #include<bits/stdc++.h>
 using namespace std;
-
 int main(){
     int n, a=0, b=1, c;
     cin >> n;
@@ -18,11 +35,9 @@ int main(){
 // INPUT:  0 1 1 2 3 
 // OUTPUT: 5
 
-
 /*--------------------------(USING ARRAY)-----------------------*/
 #include<bits/stdc++.h>
 using namespace std;
-
 int main(){
     int n, arr[100];
     cin >> n;
